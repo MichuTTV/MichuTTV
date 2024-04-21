@@ -1,12 +1,11 @@
-## 📦 Projekty/Projects
-Projekty które tworzę/tworzyłem.
+## 📦 Projects
 Projects that I create/have created
   * [🧰 WMU HUB <sub>`WEBSITE`</sub>](https://wmu-hub.pl)
   * [🎭 WMU Role Play <sub>`Fivem Server`</sub>](https://discord.gg/yRH2Q7JEkW)
 * [🌩️ StormCity <sub>`Fivem Server`</sub>](https://wmu-hub.pl)
 
-## 🧠 Języki/Languages
-Języki w których pracuje. Languages ​​in which I work.
+## 🧠 Languages
+Languages ​​in which I work.
 
 <p align="left">
   <a href="https://www.typescriptlang.org">
