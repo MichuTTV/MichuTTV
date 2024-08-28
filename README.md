@@ -1,8 +1,9 @@
 ## 📦 Projects
 Projects that I create/have created
   * [🧰 WMU HUB <sub>`WEBSITE`</sub>](https://wmu-hub.pl)
-  * [🎭 WMU Role Play <sub>`Fivem Server`</sub>](https://discord.gg/yRH2Q7JEkW)
+  * [🎭 WMU RolePlay <sub>`Fivem Server`</sub>](https://discord.gg/yRH2Q7JEkW)
 * [🌩️ StormCity <sub>`Fivem Server`</sub>](https://wmu-hub.pl)
+* [🎭 77RolePlay <sub>`Fivem Server`</sub>](https://discord.gg/77roleplay)
 
 ## 🧠 Languages
 Languages ​​in which I work.
